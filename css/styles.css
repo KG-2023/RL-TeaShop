@@ -6,6 +6,7 @@ body{
      background-image: url('https://github.com/KG-2023/Activity-Images-2023/blob/main/pexels-nikolay-osmachko-230477.jpg?raw=true');
      background-size: cover;
      background-repeat: no-repeat;
+     text-align: center;
 }
 
 div{
@@ -19,4 +20,8 @@ div{
 
 .teaMenu{
     background-color: rgb(228,202, 168);
+}
+
+.teaFlavor{
+    text-align: left;
 }
