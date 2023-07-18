@@ -1,5 +1,7 @@
 
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 
 /* ELEMENT SELECTORS */
 body{   
@@ -7,6 +9,7 @@ body{
      background-size: cover;
      background-repeat: no-repeat;
      text-align: center;
+     font-family: 'Roboto', sans-serif;
 }
 
 div{
@@ -23,20 +26,20 @@ div{
 }
 
 .teaItem p{
-    background-color: green;
+    /* background-color: green; */
     display: inline-block;
     
 }
 
 .teaFlavor{
-    
+    background-color: orangered;
     text-align: left;
-    width: 49%;
+    width: 75%;
 }
 
 
 .teaPrice{
-    
+    background-color: yellow;
     text-align: right;
-    width: 49%;
+    width: 25%;
 }
