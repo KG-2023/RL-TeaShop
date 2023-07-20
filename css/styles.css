@@ -24,6 +24,8 @@ div{
 .teaMenu{
     background-color: rgba(228, 202, 168, 0.397);
     padding: 20px;
+    max-width: 500px;
+
 }
 
 .teaItem p{
